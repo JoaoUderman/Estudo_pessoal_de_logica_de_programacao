@@ -1,0 +1,3 @@
+B:/CLion/10 - caixa eletronico/cmake-build-debug/CMakeFiles/10___caixa_eletronico.dir
+B:/CLion/10 - caixa eletronico/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CLion/10 - caixa eletronico/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+B:/CLion/8 - piramide lateral/cmake-build-debug/CMakeFiles/8___piramide_lateral.dir
+B:/CLion/8 - piramide lateral/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CLion/8 - piramide lateral/cmake-build-debug/CMakeFiles/rebuild_cache.dir
