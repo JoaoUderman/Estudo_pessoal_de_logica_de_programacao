@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"B:/CLion/Fibonacci/cmake-build-debug/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,3 @@
+B:/CLion/Desafio inversao string/cmake-build-debug/CMakeFiles/Desafio_inversao_string.dir
+B:/CLion/Desafio inversao string/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CLion/Desafio inversao string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
