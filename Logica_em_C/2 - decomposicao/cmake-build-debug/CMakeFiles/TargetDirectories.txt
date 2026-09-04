@@ -1,0 +1,3 @@
+B:/CLion/2 - decomposicao/cmake-build-debug/CMakeFiles/2___decomposicao.dir
+B:/CLion/2 - decomposicao/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CLion/2 - decomposicao/cmake-build-debug/CMakeFiles/rebuild_cache.dir
