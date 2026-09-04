@@ -1,0 +1,3 @@
+B:/CLion/6 - Papo de pescador/cmake-build-debug/CMakeFiles/6___Papo_de_pescador.dir
+B:/CLion/6 - Papo de pescador/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CLion/6 - Papo de pescador/cmake-build-debug/CMakeFiles/rebuild_cache.dir

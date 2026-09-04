@@ -1,0 +1,3 @@
+B:/CLion/5- numero narcisita funcional/cmake-build-debug/CMakeFiles/5__numero_narcisita_funcional.dir
+B:/CLion/5- numero narcisita funcional/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CLion/5- numero narcisita funcional/cmake-build-debug/CMakeFiles/rebuild_cache.dir
