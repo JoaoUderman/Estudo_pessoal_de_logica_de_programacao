@@ -1,0 +1,3 @@
+B:/CLion/5 - numero narcisista/cmake-build-debug/CMakeFiles/5___numero_narcisista.dir
+B:/CLion/5 - numero narcisista/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CLion/5 - numero narcisista/cmake-build-debug/CMakeFiles/rebuild_cache.dir

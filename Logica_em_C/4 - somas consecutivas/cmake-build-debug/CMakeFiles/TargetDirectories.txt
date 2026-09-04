@@ -1,0 +1,3 @@
+B:/CLion/4 - somas consecutivas/cmake-build-debug/CMakeFiles/4___somas_consecutivas.dir
+B:/CLion/4 - somas consecutivas/cmake-build-debug/CMakeFiles/edit_cache.dir
+B:/CLion/4 - somas consecutivas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
